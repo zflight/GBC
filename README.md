@@ -3,8 +3,8 @@
 Things to include:
  - boot up/down procedure
    - need to check to make sure everything is working and on
+   - if Saturday night, leave computer on then make sure everything works Sunday morning
  - troubleshooting
- - what buttons and faders do on the midi controller
  - what each tab is for
    - patch
    - edit
@@ -12,6 +12,7 @@ Things to include:
    - show
  - how to program lights
    - start with how to focus movers
+   - how to set colors for songs
 
 Hugo Themes to Try:
  - crab
