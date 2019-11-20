@@ -1,3 +1,5 @@
+# Midi Layout
+
 ![X-Touch Compact](https://media.sweetwater.com/api/i/f-webp__q-82__ha-748bc38e8c7733cc__hmac-23dde205fefe2575c61bd25869ab1f244e865381/images/items/750/XTouchC-large.jpg.auto.webp)
 # Faders
 | Fader | Layer 1 | Layer 2 |
@@ -10,7 +12,7 @@
 | 6 | Martins | |
 | 7 | Innos | |
 | 8 | Backs | |
-| 9 | Master | | 
+| 9 | Master | |
 
 # Dials
 | Dial | Layer 1 | Layer 2 |
