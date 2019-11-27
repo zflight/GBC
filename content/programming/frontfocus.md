@@ -15,17 +15,20 @@ The front lights have multiple cues.  One for the focus, which is in the focus g
 
 1. In live tab, turn on lead 1-4
 2. Repeat the following steps for lead 1-4 (lead 1 will be used for example, substitute lead 1 for the item you're working on)
-  A. On board (Layer A), turn up fader for lead 1
-  B. In edit tab, click on lead 1
-  C. Ensure correct light is being used (you want the light most directly in front of the lead)
+  1. On board (Layer A), turn up fader for lead 1
+  2. In edit tab, click on lead 1
+  3. Ensure correct light is being used (you want the light most directly in front of the lead)
 
     - If incorrect light is on, click on the light that is on and click off button to turn off dimmer
     - Click light you would like to turn on for this lead, and move the dimmer fader on screen up to `65`
-
-  D. Click on band focus
-  E. Make sure the light you are focusing is the only one selected
-  F. On board (Layer B), turn the dial all the way up for the light you are focusing
+  4. Click on band focus
+  5. Make sure the light you are focusing is the only one selected
+  6. On board (Layer B), turn the dial all the way up for the light you are focusing
   
     - This will make it as narrow as possible and ensure you are in the right spot
-    
-  G. 
+  7. Use the Pan/Tilt box to focus the light
+  8. Turn down the dial to open up the zoom of the light to where it looks good
+  9. Repeat steps 1-8 for the rest of the leads
+  
+    - For Lead EE you will need to set all lights that aren't in Lead 1-3
+3. Lead 4 and Lead EE use the same fader for their intensity; Lead 4 is only used if there are 4 singers or if you need to highlight someone in a song
