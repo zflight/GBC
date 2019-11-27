@@ -2,8 +2,8 @@
 
 There are two sections here, use whichever helps you best.
 
-- [#front-focus-logic](Front Focus Logic)
-- [#step-by-step-guide](Step by Step Guide)
+- [Front Focus Logic](#front-focus-logic)
+- [Step by Step Guide](#step-by-step-guide)
 
 ## Front Focus Logic
 
@@ -18,10 +18,14 @@ The front lights have multiple cues.  One for the focus, which is in the focus g
   1. On board (Layer A), turn up fader for lead 1
   2. In edit tab, click on lead 1
   3. Ensure correct light is being used (you want the light most directly in front of the lead
+  
     - If incorrect light is on, click on the light that is on and click off button to turn off dimmer
     - Click light you would like to turn on for this lead, and move the dimmer fader on screen up to `65`
+    
   4. Click on band focus
   5. Make sure the light you are focusing is the only one selected
   6. On board (Layer B), turn the dial all the way up for the light you are focusing
+  
     - This will make it as narrow as possible and ensure you are in the right spot
+    
   7. 
