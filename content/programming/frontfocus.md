@@ -14,7 +14,7 @@ The front lights have multiple cues.  One for the focus, which is in the focus g
 ### Band Focus
 
 1. In live tab, turn on lead 1-4
-2. Repeat the following steps for lead 1-4 (lead 1 will be used for example, substitute lead 1 for the item you're working on)
+2. Repeat the following steps for lead 1-4 (lead 1 will be used for example, substitute lead 1 for the item you are working on)
 
   1. On board (Layer A), turn up fader for lead 1
   2. In edit tab, click on lead 1
