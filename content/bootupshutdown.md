@@ -21,9 +21,5 @@
 3. Turn off sequencer
   - **Ensure everyone is done before you turn it off because it will turn sound off as well**
 4. Turn all cues off
-5. Unplug DMX from MyDMX box universe 2
-  - This is temporary and only needed to keep all house lights off
 6. Quit MyDMX
 7. Turn computer off
-8. Plug DMX back into box Universe 2
-  - The one you unplugged in step 5
